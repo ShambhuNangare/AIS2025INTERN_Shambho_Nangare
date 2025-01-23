@@ -16,3 +16,10 @@ Task Overview
  7. Common Python Errors
    * Understand and fix errors like IndentationError, NameError, ValueError, TypeError, IndexError, and KeyError.
 
+
+# Python Task 2
+Task overview
+ 1.Conditionals(if-else).Exanples.
+ 2.Loops : For loop and while loop.Examples
+ 3.Data manipulation using for loop.
+ 4.Control statement: Examples of break, continue, and pass. Explanation and Examples.
