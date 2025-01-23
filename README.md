@@ -18,8 +18,8 @@ Task Overview
 
 
 # Python Task 2
-Task overview  
-  1.Conditionals(if-else).Exanples.  
-  2.Loops : For loop and while loop.Examples  
-  3.Data manipulation using for loop.  
-  4.Control statement: Examples of break, continue, and pass. Explanation and Examples.  
+Task Overview  
+  * Conditionals(if-else).Exanples.  
+  * Loops : For loop and while loop.Examples  
+  * Data manipulation using for loop.  
+  * Control statement: Examples of break, continue, and pass. Explanation and Examples.  
