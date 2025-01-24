@@ -22,4 +22,18 @@ Task Overview
   * Conditionals(if-else).Examples.  
   * Loops : For loop and while loop.Examples  
   * Data manipulation using for loop.  
-  * Control statement: Examples of break, continue, and pass. Explanation and Examples.  
+  * Control statement: Examples of break, continue, and pass. Explanation and Examples.
+
+
+# Python Task 3
+Task overview
+  * Returns the maximum number from a given list of numbers.
+  * Returns the sum of all numbers in a given list.
+  * Returns a new list with only the distinct elements from the original list, removing duplicates.
+  * Calculates the total number of combinations that can be formed from a given list.
+  * Calculates the total number of permutations that can be made from a given list.
+  * Counts and returns the number of vowels and consonants in a given word.
+  * Converts all lowercase letters of a word into uppercase.
+  * Counts and returns the number of uppercase and lowercase letters in a given word.
+
+
