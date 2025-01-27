@@ -36,4 +36,15 @@ Task overview
   * Converts all lowercase letters of a word into uppercase.
   * Counts and returns the number of uppercase and lowercase letters in a given word.
 
+# Python Task 4
+ Task Overview
+  * Introduction to NumPy.
+  * Arrays in NumPy.
+  * Array Operations.
+  * Array Shapes and Reshaping.
+  * Array Manipulation.
+  * Mathematical Functions.
+  * Random Number Generation.
+  * Broadcasting.
+
 
