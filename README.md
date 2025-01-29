@@ -47,4 +47,9 @@ Task overview
   * Random Number Generation.
   * Broadcasting.
 
-
+# NumPy Exercise
+  * Creating arrays with zeros,ones, and fives.
+  * Matrix creation.
+  * Random number generation.
+  * Indexing and Selection.
+  * Basic mathematical operations on arrays.
