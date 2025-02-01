@@ -53,3 +53,18 @@ Task overview
   * Random number generation.
   * Indexing and Selection.
   * Basic mathematical operations on arrays.
+
+# Python Task 5
+  Task Overview
+  * Key Data Structures in Pandas.
+  * Creating Data Structures.
+  * Data Operations.
+  * Data Cleaning.
+  * Renaming.
+  * Filtering.
+  * Aggregation and Grouping.
+  * Merging and Joining.
+  * File I/O.
+  * Time series.
+  * Visualization.
+
