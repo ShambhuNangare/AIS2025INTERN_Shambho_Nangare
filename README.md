@@ -68,3 +68,8 @@ Task overview
   * Time series.
   * Visualization.
 
+# Python Task 6
+  Task Overview
+  This task demonstrates how to use Matplotlib and Seaborn for creating various data visualizations in Python.
+  * Matplotlib: A library for creating static, animated, and interactive plots.
+  * Seaborn: Built on top of Matplotlib, Seaborn simplifies the creation of attractive and informative statistical graphics.
