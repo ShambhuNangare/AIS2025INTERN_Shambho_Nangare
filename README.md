@@ -73,3 +73,16 @@ Task overview
   This task demonstrates how to use Matplotlib and Seaborn for creating various data visualizations in Python.
   * Matplotlib: A library for creating static, animated, and interactive plots.
   * Seaborn: Built on top of Matplotlib, Seaborn simplifies the creation of attractive and informative statistical graphics.
+
+# Task 8
+  Task Overview  
+  Titanic Dataset Exploration and Preprocessing.
+  * Loading the Dataset.
+  * Initial Exploration.
+       * Describe()
+       * Info()
+       * Shape()
+       * Column()
+  * Preprocessing
+       * Handling Missing Values
+       * Label Encoding
