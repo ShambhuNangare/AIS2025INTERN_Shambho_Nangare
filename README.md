@@ -86,3 +86,13 @@ Task overview
   * Preprocessing
        * Handling Missing Values
        * Label Encoding
+
+# Python 9
+  Task Overview  
+  Data Preprocessing Overview
+  * Quartiles & Tukey’s Method.
+  * Box and Whisker Plot.
+  * Z-Score (Outlier Detection).
+  * Standardization (Z-Score Normalization).
+  * Min-Max Scaler.
+  * Principal Component Analysis (PCA).
