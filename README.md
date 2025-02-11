@@ -102,13 +102,13 @@ Task overview
   Naive Bayes Classifier on Iris Data  
   This task implements and compares three variants of Naive Bayes classifiers (GaussianNB, BernoulliNB, and MultinomialNB) using the Iris dataset:  
   * Data Preprocessing:  
-         Split the dataset into dependent and independent variables.  
-         Split the data into training (80%) and testing (20%) sets.  
+    * Split the dataset into dependent and independent variables.  
+    * Split the data into training (80%) and testing (20%) sets.  
   * Models:  
-         Gaussian Naive Bayes (GaussianNB): Assumes features follow a Gaussian (normal) distribution.  
-         Bernoulli Naive Bayes (BernoulliNB): Assumes binary features (0 or 1).  
-         Multinomial Naive Bayes (MultinomialNB): Best for count-based features, often used in text classification.  
+    * Gaussian Naive Bayes (GaussianNB): Assumes features follow a Gaussian (normal) distribution.  
+    * Bernoulli Naive Bayes (BernoulliNB): Assumes binary features (0 or 1).  
+    * Multinomial Naive Bayes (MultinomialNB): Best for count-based features, often used in text classification.  
   * Steps:  
-         Train the models.  
-         Make predictions on the test set.  
-         Evaluate model performance using accuracy scores.  
+    * Train the models.  
+    * Make predictions on the test set.  
+    * Evaluate model performance using accuracy scores.  
