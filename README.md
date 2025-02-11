@@ -100,7 +100,7 @@ Task overview
 # Task 9
   Task Overview  
   Naive Bayes Classifier on Iris Data  
-  This project implements and compares three variants of Naive Bayes classifiers (GaussianNB, BernoulliNB, and MultinomialNB) using the Iris dataset:  
+  This task implements and compares three variants of Naive Bayes classifiers (GaussianNB, BernoulliNB, and MultinomialNB) using the Iris dataset:  
   * Data Preprocessing:  
          Split the dataset into dependent and independent variables.  
          Split the data into training (80%) and testing (20%) sets.  
