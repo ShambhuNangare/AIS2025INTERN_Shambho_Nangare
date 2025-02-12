@@ -118,7 +118,7 @@ Task overview
   This is a Decision Tree classifier implementation for classification tasks, using two splitting criteria:  
     * Entropy (Information Gain) : Selects the feature that reduces data uncertainty.  
     * Gini Index : Selects the feature that minimizes data impurity.  
- The model also calculates performance metrics such as:  
+  The model also calculates performance metrics such as:  
     * Accuracy : The proportion of correct predictions.  
     * Recall : The ability to identify all relevant instances.  
     * Precision : The proportion of positive predictions that are correct.
