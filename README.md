@@ -112,3 +112,10 @@ Task overview
     * Train the models.  
     * Make predictions on the test set.  
     * Evaluate model performance using accuracy scores.  
+
+# Task 10
+  Task Overview  
+  This is an implementation of a Decision Tree classifier for classification tasks. It uses two splitting criteria:  
+  * Entropy (Information Gain): Chooses the feature that reduces uncertainty in the data the most.
+  * Gini Index: Chooses the feature that minimizes impurity.
+  
